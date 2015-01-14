@@ -1,0 +1,15 @@
+{
+  "name": "rpardini/ec2-auto-lvm",
+  "description": "Automagically manages LVM based on EC2 volume tags",
+  "minimum-stability": "dev",
+  "license": "apachev2",
+  "authors": [
+    {
+      "name": "Ricardo Pardini",
+      "email": "pardinilist@pardini.net"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "2.7.14"
+  }
+}
